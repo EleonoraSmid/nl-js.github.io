@@ -3,6 +3,7 @@
 }
 html,
 body {
+overflow-x: hidden;
   height: 100%;
   //background-color: $tertiary;
 }
@@ -19,11 +20,10 @@ body {
   }
 }
 .page-wrap-header {
-
 }
 
 .page-wrap-events {
-  min-height: 100%;
+  min-height: 40%;
   /* equal to footer height */
   // margin-bottom: -$footer-height;
   &:after {
