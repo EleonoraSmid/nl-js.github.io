@@ -1,4 +1,0 @@
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Error: Undefined variable: \"$base-font-family\".\A         on line 2 of _global.scss\A \A 1: body {\A 2:   font-family: $base-font-family;\A 3:   font-size: $base-font-size;\A 4:   line-height: $base-line-height;\A 5:   font-style:normal;\A 6:   color: $text-color;\A 7:   // background-color: $background-primary;"; }
